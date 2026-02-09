@@ -10,7 +10,7 @@ const _geistMono = Geist_Mono({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: 'Para Ti',
   description: 'Una animacion especial con todo mi corazon',
-  generator: 'v0.app',
+  generator: 'Diego',
 }
 
 export default function RootLayout({

@@ -6,20 +6,17 @@ import { useRef, useEffect, useCallback } from "react"
 // ESCRIBE TU POEMA AQUI (cada linea es un verso)
 // ============================================================
 const POEMA: string[] = [
-  "Eres la luz que ilumina mis dias,",
-  "la calma en medio de mis tormentas.",
-  "Con cada latido, mi corazon susurra",
-  "tu nombre, como una dulce melodia.",
+  "Nieves, amor mío,",
+  "eres mi lugar seguro",
+  "y el sueño al que siempre quiero volver.",
   "",
-  "Eres raices que me sostienen,",
-  "ramas que abrazan el cielo,",
-  "y cada hoja, un recuerdo nuestro",
-  "que florece eterno en mi pecho.",
+  "En ti encuentro calma,",
+  "sonrisa, hogar,",
+  "y un amor que no duda.",
   "",
-  "Este arbol crece por ti,",
-  "alimentado de amor sincero.",
-  "Cada corazon que ves en sus ramas",
-  "es una razon por la que te quiero.",
+  "Hoy y todos los días,",
+  "mi corazón te elige.",
+  "Feliz San Valentín."
 ]
 // ============================================================
 
